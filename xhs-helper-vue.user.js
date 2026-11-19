@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         小红书私信自动回复助手 (Vue版)
 // @namespace    http://tampermonkey.net/
-// @version      0.5.23
+// @version      0.5.24
 // @author       lingyunmo & Gemini
 // @description  小红书私信自动回复工具-Vue重构版
 // @icon         https://www.xiaohongshu.com/favicon.ico
