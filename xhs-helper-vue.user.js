@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         小红书私信自动回复助手 (Vue版)
 // @namespace    http://tampermonkey.net/
-// @version      0.5.41
+// @version      0.5.42
 // @author       lingyunmo & Gemini
 // @description  小红书私信自动回复工具-Vue重构版
 // @icon         https://www.xiaohongshu.com/favicon.ico
@@ -11,6 +11,8 @@
 // @match        https://pro.xiaohongshu.com/*
 // @match        *://edith.xiaohongshu.com/*
 // @require      https://unpkg.com/vue@3.3.4/dist/vue.global.prod.js
+// @connect      127.0.0.1
+// @connect      localhost
 // @connect      api.neoshen.top
 // @connect      *
 // @grant        GM_addStyle
